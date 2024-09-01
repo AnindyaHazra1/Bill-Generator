@@ -1,0 +1,20 @@
+	Welcome Anindya Retail
+
+Bill Number:		4437
+Customer Name:		TEST 1
+Phone Number:		0123456789
+
+======================================
+Product		QTY		Price
+======================================
+MOMO		2		112
+PAPAD		5		25
+MAGIEE		2		70
+PIZZA		2		420
+WATER		2		40
+C.DRINK		2		100
+
+======================================
+Total Paybill Amount :		  767
+
+======================================
